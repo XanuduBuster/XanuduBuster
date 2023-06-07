@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @XanuduBuster
+- My name is pronounced as Za-nu-du Bus-ter
 - 👀 I’m interested in programing, helping and making things
 - 🌱 I’m working at @hewol
 - 📫 You can reach me at Discord: Xanudu#2632
@@ -17,7 +18,7 @@ My PC Specs:
 
 ` $2,199 USD for Laptop + $2,000 USD for SSD = $4199 USD or $5634 CAD! `
 
-` Price is crazy, I know
+` Price is crazy, I know `
 
 
 
