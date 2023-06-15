@@ -5,6 +5,22 @@
 - You can reach me at Discord: Xanudu#2632 (or at twitter: https://twitter.com/XanuduBuster)
 - My website: https://t.ly/xbuster
 
+App's of my choice:
+Video editing software: Davinci Resolve, kdenlive
+Photo editing software: GIMP, Krita
+Codding software: VS Code, GNOME Builder, gedit
+Media Player: VLC Media Player
+
+I know these programming languages: 
+* Vala
+* C
+* C++
+* Nginx
+* Markdown
+* Shell
+* Python
+* Hack
+
 My PC Specs:
 - Type: Laptop
 - Brand and Model: Samsung Galaxy Book3 Ultra
