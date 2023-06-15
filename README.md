@@ -5,11 +5,16 @@
 - You can reach me at Discord: Xanudu#2632 (or at twitter: https://twitter.com/XanuduBuster)
 - My website: https://t.ly/xbuster
 
-App's of my choice:
-Video editing software: Davinci Resolve, kdenlive
-Photo editing software: GIMP, Krita
-Codding software: VS Code, GNOME Builder, gedit
-Media Player: VLC Media Player
+Software's of my choice:
+* Video editing software: Davinci Resolve, kdenlive
+* Photo editing software: GIMP, Krita
+* Codding software: VS Code, GNOME Builder, gedit
+* Media Player: VLC Media Player
+* Browser: Firefox
+* OS: Linux
+* Linux Distro: Ubuntu (Debain based)
+* Desktop Enviroment: GNOME (with Wayland)
+* Window Manager: Hyprland
 
 I know these programming languages: 
 * Vala
