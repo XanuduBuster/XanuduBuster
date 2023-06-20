@@ -24,7 +24,8 @@ I know these programming languages:
 * Markdown
 * Shell
 * Python
-* Hack
+* Hack (Aka know how to hack)
+
 
 My PC Specs:
 - Type: Laptop
