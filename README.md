@@ -14,7 +14,7 @@ Software's of my choice:
 * OS: Linux
 * Linux Distro: Ubuntu (Debain based)
 * Desktop Enviroment: GNOME (with Wayland)
-* Window Manager: Hyprland
+* Window Manager: Hyprland (Dont use much)
 
 I know these programming languages: 
 * Vala
