@@ -25,7 +25,25 @@ I know these programming languages:
 * Shell
 * Python
 * Hack (Aka know how to hack)
+* PHP
+* C
 
+OS's I used/use:
+* Kali Linux
+* Arch Linux
+* Fedora
+* Manjaro
+* Ubuntu Unity
+* Kubuntu
+* Edubuntu
+* Ubuntu
+* Parrot OS
+* Cent OS
+* FreeBSD
+* MacOS (Hackintosh)
+* ChromeOS
+* FydeOS
+* HoloISO (Steam Deck OS on PC)
 
 My PC Specs:
 - Type: Laptop
@@ -36,6 +54,8 @@ My PC Specs:
 - Storage: Sabren Rocket 4 Plus 8TB NVME SSD (Changed)
 - Display: 16-inch 3K (2,880 x 1,880 pixels) 120Hz AMOLED
 - OS: Ubuntu 23.04
+
+
 
 ` I know this specs are crazy and I use only Linux, because I hate Windows, but my RTX 4070 is useless because I don't do gaming, also the price is crazy `
 
