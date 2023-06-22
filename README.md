@@ -10,7 +10,7 @@ Software's of my choice:
 * Photo editing software: GIMP, Krita
 * Codding software: VS Code, GNOME Builder, gedit
 * Media Player: VLC Media Player
-* Browser: Firefox
+* Browser: Firefox and Brave
 * OS: Linux
 * Linux Distro: Ubuntu (Debain based)
 * Desktop Enviroment: GNOME (with Wayland)
@@ -26,7 +26,7 @@ I know these programming languages:
 * Python
 * Hack (Aka know how to hack)
 * PHP
-* C
+* Visual Basic (Learning rn)
 
 OS's I used/use:
 * Kali Linux
@@ -44,6 +44,7 @@ OS's I used/use:
 * ChromeOS
 * FydeOS
 * HoloISO (Steam Deck OS on PC)
+* Debain (8 - 12)
 
 My PC Specs:
 - Type: Laptop
