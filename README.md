@@ -3,7 +3,6 @@
 - I’m interested in programing, helping, hacking and making things
 - I’m working at @hewol
 - You can reach me at Discord: Xanudu#2632 (or at twitter: https://twitter.com/XanuduBuster)
-- My website: https://t.ly/xbuster
 
 Software's of my choice:
 * Video editing software: Davinci Resolve, kdenlive
