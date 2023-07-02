@@ -41,9 +41,12 @@ OS's I used/use:
 * FreeBSD
 * MacOS (Hackintosh)
 * ChromeOS
+* Gentoo
+* Pop!_OS
+* Tuxedo OS
 * FydeOS
 * HoloISO (Steam Deck OS on PC)
-* Debain (8 - 12)
+* Debain (2 - 12)
 
 My PC Specs:
 - Type: Laptop
