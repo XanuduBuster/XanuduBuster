@@ -4,7 +4,9 @@
 - I’m working at @hewol
 - You can reach me at Discord: Xanudu#2632 (or at twitter: https://twitter.com/XanuduBuster)
 
-Software's of my choice:
+<details>
+<summary>Software's of my choice:</summary>
+
 * Video editing software: Davinci Resolve, kdenlive
 * Photo editing software: GIMP, Krita
 * Codding software: VS Code, GNOME Builder, gedit
@@ -15,7 +17,13 @@ Software's of my choice:
 * Desktop Enviroment: GNOME (with Wayland)
 * Window Manager: Hyprland (Dont use much)
 
-I know these programming languages: 
+
+
+#
+
+<details>
+<summary>I know these programming languages:</summary>
+ 
 * Vala
 * C
 * C++
@@ -27,7 +35,13 @@ I know these programming languages:
 * PHP
 * Visual Basic (Learning rn)
 
-OS's I used/use:
+
+
+#
+
+<details>
+<summary>OS's I used/use:</summary>
+
 * Kali Linux
 * Arch Linux
 * Fedora
@@ -47,6 +61,9 @@ OS's I used/use:
 * FydeOS
 * HoloISO (Steam Deck OS on PC)
 * Debain (2 - 12)
+
+
+#
 
 My PC Specs:
 - Type: Laptop
