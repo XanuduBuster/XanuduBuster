@@ -31,9 +31,7 @@
 * Markdown
 * Shell
 * Python
-* Hack (Aka know how to hack)
 * PHP
-* Visual Basic (Learning rn)
 
 
 
