@@ -27,11 +27,11 @@
 * Vala
 * C
 * C++
-* Nginx
 * Markdown
 * Shell
 * Python
-* PHP
+* HTML (Learning)
+* CSS (Learning)
 
 
 
@@ -58,7 +58,7 @@
 * Tuxedo OS
 * FydeOS
 * HoloISO (Steam Deck OS on PC)
-* Debain (2 - 12)
+* Debain (2.1 - 12)
 
 
 #
